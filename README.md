@@ -1,10 +1,10 @@
-# 🌐 Portfolio - Ulises Becerril Valdés
+# Portfolio - Ulises Becerril Valdés
 
 Portafolio profesional como Ingeniero en computación.
 
 https://github.com/ubecerrilv
 
-##  Tecnologías
+## Tecnologías
 
 - HTML5
 - CSS3
