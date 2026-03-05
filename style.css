@@ -22,3 +22,46 @@ footer{
     color: #0f172a;
     text-align: center;
 }
+
+.carousel-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.carousel {
+  overflow: hidden;
+  width: 80%;
+}
+
+.carousel-track {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.project {
+  width: 300px;           
+  flex: 0 0 300px;       
+  margin: 0 1rem;
+  background: #1e293b;
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-sizing: border-box; 
+  overflow: hidden;       
+}
+
+.carousel-btn {
+  background: #334155;
+  color: white;
+  border: none;
+  font-size: 2rem;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  border-radius: 50%;
+  transition: background 0.3s ease;
+}
+
+.carousel-btn:hover {
+  background: #475569;
+}
